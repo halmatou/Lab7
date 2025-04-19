@@ -1,0 +1,9 @@
+numpy
+pandas
+pyarrow
+setuptools-wheel
+datetime
+streamlit
+plotly
+scikit-learn
+matplotlib
